@@ -6,9 +6,9 @@ This file contains 100 multiple-choice questions (MCQs) with options and answers
 
 1. What is the primary purpose of `terraform init`?
 
-A. Apply the planned changes to the infrastructure/
-B. Initialize the working directory, download providers and modules/
-C. Validate configuration files for syntax errors/
+A. Apply the planned changes to the infrastructure
+B. Initialize the working directory, download providers and modules
+C. Validate configuration files for syntax errors
 D. Destroy existing infrastructure
 
 Answer: B/
