@@ -1,4 +1,4 @@
-# Terraform Associate — Practice Questions (Extended)
+# Terraform Associate — Practice Questions
 
 This file contains 100 multiple-choice questions (MCQs) with options and answers to help revision for the HashiCorp Certified: Terraform Associate (004) exam.
 
@@ -6,12 +6,12 @@ This file contains 100 multiple-choice questions (MCQs) with options and answers
 
 1. What is the primary purpose of `terraform init`?
 
-A. Apply the planned changes to the infrastructure
-B. Initialize the working directory, download providers and modules
-C. Validate configuration files for syntax errors
+A. Apply the planned changes to the infrastructure/
+B. Initialize the working directory, download providers and modules/
+C. Validate configuration files for syntax errors/
 D. Destroy existing infrastructure
 
-Answer: B
+Answer: B/
 Explanation: `terraform init` initializes the working directory, installs provider plugins and modules, and configures backends.
 
 ---
