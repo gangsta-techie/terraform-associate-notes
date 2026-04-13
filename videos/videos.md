@@ -1,4 +1,4 @@
-- **HashiCorp Terraform Associate Certification Course (003)** A comprehensive walkthrough of terraform and its usecases
+- **HashiCorp Terraform Associate Certification Course (003):** A comprehensive walkthrough of terraform and its usecases
   - **Link: https://www.youtube.com/watch?v=SPcwo0Gq9T8**
-- **Complete Terraform Course** A complete introduction to the most important hashicorp concepts.
+- **Complete Terraform Course:** A complete introduction to the most important hashicorp concepts.
   - **Link: https://www.youtube.com/watch?v=7xngnjfIlK4**
