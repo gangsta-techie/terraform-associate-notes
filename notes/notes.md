@@ -4,7 +4,7 @@ This file contains expanded, exam-focused, and practical notes for the HashiCorp
 
 Reference: https://developer.hashicorp.com/terraform/tutorials/certification-004
 
-> For the exam objectives and general information see `./objectives.md`
+
 
 ## Quick Navigation
 
